@@ -1,0 +1,13 @@
+pip-tools
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+pandas
+# dvc[s3]
+# icecream
+transformers
+torch
+# jupyterlab
+# pyarrow
+streamlit
+psycopg2

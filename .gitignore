@@ -1,0 +1,10 @@
+/junk
+client_secret.json
+**/*.env
+old/
+data/*
+**/__pycache__
+.dvc
+dvc.yaml
+dvc.lock
+.dvcignore
